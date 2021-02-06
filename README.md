@@ -16,7 +16,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
 1. How the coding life span affects the ex-coder's opinion regarding coding?
-2. What part of the StackOverflow affects the users satisfaction towards StackOverflow?
+2. What part of the StackOverflow contributes to the users satisfaction?
 3. What factors are related to the job satisfaction?
 
 
@@ -28,7 +28,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://chorin86.medium.com/how-to-satisfy-your-stakeholders-73a214a77efa).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
